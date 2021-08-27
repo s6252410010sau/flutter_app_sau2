@@ -7,7 +7,7 @@ void main(List<String> args) {
   runApp(
     MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: FirstUI(),
+      home: SecondUI(),
     )
   );
 }
